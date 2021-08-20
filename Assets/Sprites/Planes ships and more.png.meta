@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 76cb0239970b41a4588f77bd5257535e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8753179295948952660
+    second: Planes ships and more_0
+  - first:
+      213: 8713916376182215313
+    second: Planes ships and more_1
+  - first:
+      213: -1178512569999178723
+    second: Planes ships and more_2
+  - first:
+      213: -3524178773845991846
+    second: Planes ships and more_3
+  - first:
+      213: -449686214887371522
+    second: Planes ships and more_4
+  - first:
+      213: -7277533448782832584
+    second: Planes ships and more_5
+  - first:
+      213: -2111664982119835811
+    second: Planes ships and more_6
+  - first:
+      213: 8060399823877916434
+    second: Planes ships and more_7
+  - first:
+      213: 4512940708356980632
+    second: Planes ships and more_8
+  - first:
+      213: 3394603173226222287
+    second: Planes ships and more_9
+  - first:
+      213: 4038862253473208826
+    second: Planes ships and more_10
+  - first:
+      213: -1560329585514386372
+    second: Planes ships and more_11
+  - first:
+      213: 5922374590763015134
+    second: Planes ships and more_12
+  - first:
+      213: -7756926690276354773
+    second: Planes ships and more_13
+  - first:
+      213: 2080414320466413453
+    second: Planes ships and more_14
+  - first:
+      213: 2669074511067078274
+    second: Planes ships and more_15
+  - first:
+      213: 1506447728441549320
+    second: Planes ships and more_16
+  - first:
+      213: 657639543199835413
+    second: Planes ships and more_17
+  - first:
+      213: 3525452200444547882
+    second: Planes ships and more_18
+  - first:
+      213: -3392764060663318509
+    second: Planes ships and more_19
+  - first:
+      213: -5520368450020128423
+    second: Planes ships and more_20
+  - first:
+      213: -8579237070616296291
+    second: Planes ships and more_21
+  - first:
+      213: -7929053777958686917
+    second: Planes ships and more_22
+  - first:
+      213: -1882497616128933830
+    second: Planes ships and more_23
+  - first:
+      213: -3676972580210644083
+    second: Planes ships and more_24
+  - first:
+      213: -5652610263314440733
+    second: Planes ships and more_25
+  - first:
+      213: -3894338824303886059
+    second: Planes ships and more_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planes ships and more_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 577
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454575e713a897970800000000000000
+      internalID: 8753179295948952660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 577
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192dccc96cc0ee870800000000000000
+      internalID: 8713916376182215313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 648
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14cdd5cf0515afe0800000000000000
+      internalID: -1178512569999178723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 641
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e10fbb31a971fc0800000000000000
+      internalID: -3524178773845991846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 575
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8f3525c462c9f0800000000000000
+      internalID: -449686214887371522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 575
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9648e2e1010b90800000000000000
+      internalID: -7277533448782832584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 575
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d579d1803ebd1b2e0800000000000000
+      internalID: -2111664982119835811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 575
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2174dd91fea4cdf60800000000000000
+      internalID: 8060399823877916434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 616
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f7406e9af21ae30800000000000000
+      internalID: 4512940708356980632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 616
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc21095c99d0c1f20800000000000000
+      internalID: 3394603173226222287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 476
+        width: 235
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9110b12dbec0830800000000000000
+      internalID: 4038862253473208826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 235
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce1ea4288985ae0800000000000000
+      internalID: -1560329585514386372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 401
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9a3def40803250800000000000000
+      internalID: 5922374590763015134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 328
+        width: 400
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d45de54cd95490800000000000000
+      internalID: -7756926690276354773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 396
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87490d4dcd1fdc10800000000000000
+      internalID: 2080414320466413453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed33f50257a0520800000000000000
+      internalID: 2669074511067078274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e37e3a3af7e410800000000000000
+      internalID: 1506447728441549320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 230
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152da22ea7602900800000000000000
+      internalID: 657639543199835413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_18
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 226
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23dd10091cece030800000000000000
+      internalID: 3525452200444547882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 128
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318737dff0b7ae0d0800000000000000
+      internalID: -3392764060663318509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 128
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c6439426b363b0800000000000000
+      internalID: -5520368450020128423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 126
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948d0ac65d60f880800000000000000
+      internalID: -8579237070616296291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 124
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fadcf499756f190800000000000000
+      internalID: -7929053777958686917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 26
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308d1c546600e5e0800000000000000
+      internalID: -1882497616128933830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 26
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b61b37be4c8fcc0800000000000000
+      internalID: -3676972580210644083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_25
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5a611ae4ed81b0800000000000000
+      internalID: -5652610263314440733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planes ships and more_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ca5ee87784f9c0800000000000000
+      internalID: -3894338824303886059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
