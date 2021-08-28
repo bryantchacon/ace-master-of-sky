@@ -19,11 +19,20 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>(); //rb es igual a un componente que yo tengo el cual es un Rigidbody2D
     }
 
-    private void OnMove(InputValue movementValue) //OnMove es una funcion autoejecutable para detectar el movimiento del player debido al paquete Input System, el componente Player Input agregado al player, y el Input Action Asset creado y agregado en el mismo componente. Funciona automaticamente porque se le pasa por parametro el InputValue(se le pone nombre como una variable) del Input System
+    private void OnMove(InputValue movementValue) //OnMove es una funcion autoejecutable para detectar el movimiento del player debido al paquete Input System(pero no aparece como sugerencia al escribirlo), el componente Player Input agregado al player, y el Input Action Asset creado y agregado en el mismo componente. Funciona automaticamente porque se le pasa por parametro el InputValue(se le pone nombre como una variable) del Input System
     {
         Vector2 movementVector = movementValue.Get<Vector2>(); //Se obtiene y guarda el Vector2 del imput value
         movementX = movementVector.x; //Se asigna el valor de cada vector a la variable correspondiente
         movementY = movementVector.y;
+    }
+
+    private void OnFire()
+    {
+        SoundManager.instance.PlayAudioShoot(); //Reproduce el audio del disparo. NOTA: El OnFire se configurara para que funcione al presionar la barra espaciadora, para eso, en el Inpunt Action Asset del player; Fire > + > Add Binding > Path > Buscar "Space" y seleccionarlo, y guardar
+        GameObject go = ObjectPooler.instance.GetPoolObject("Missile");
+        go.transform.position = transform.position;
+        go.transform.rotation = transform.rotation;
+        go.SetActive(true);
     }
 
     private void FixedUpdate() //FixedUpdade esta optimizado para el movimiento de assets
